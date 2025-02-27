@@ -1,0 +1,41 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+32
+'buenas noches digite su nombre'
+5
+1
+1
+n
+4
+1
+53
+'Sr Usuario', n, ' bienvenido al Castaño Restaurante'
+4
+1
+31
+'escoja los dos platos p1 y p2'
+5
+1
+5
+p1,p2
+6
+2
+1
+p
+5
+p1+p2
+2
+to
+1
+p
+4
+1
+28
+'Su total es : ',to,' pesos'
+1
