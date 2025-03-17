@@ -1,0 +1,77 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+35
+'cantidad de almuerzos a solicitar'
+5
+1
+2
+ n
+6
+3
+1
+s
+4
+4000
+1
+v
+3
+250
+1
+l
+3
+300
+6
+1
+2
+ca
+3
+l-v
+7
+0
+1
+5
+n<=ca
+4
+1
+21
+'No se puede comprar'
+13
+6
+2
+1
+a
+4
+1500
+2
+va
+3
+n*a
+7
+0
+1
+5
+va<=s
+4
+1
+14
+'no hay saldo'
+13
+6
+1
+1
+s
+4
+s-va
+4
+1
+28
+'el saldo restante es: $', s
+13
+13
+1
